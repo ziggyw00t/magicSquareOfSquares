@@ -14,3 +14,5 @@ PAUSED: -> I'm abandoning this effort for now because after further mathematical
 xyz*(y+z)*(y-z) must be divisible by 2^4 * 3^2 * 5 * 7 * 11 * 13 * 17 * 19 * 23 * 29 * 31 * 37 * 41 * 43 * 47 * 53 * 61 * 67 = 3196605376710617107476240
 
 xyz*(y+z)*(y-z) must be divisible by 2^13 * 3^5 * 5^2 * 7^2 * 11 * 13 * 17 * 19 * 23 * 29 * 31 * 37 * 41 * 43 * 47 * 53 * 61 * 67 = 1546645545467664981281303961600.
+
+SOURCE: http://www.multimagie.com/English/SquaresOfSquaresSearch.htm
